@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @rickyraz
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Backend dev
-- 📫 Reach me in rickyraihan83@gmail.com
 
 <!---
 rickyraz/rickyraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
