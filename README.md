@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rick
+### Hi there 👋
 
 ##### Top Languages 
 
