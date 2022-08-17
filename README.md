@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi i'm Rick 👋
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyraz&hide=html,scss,javascript&theme=onedark&layout=compact)](https://github.com/rickyraz/github-readme-stats)
