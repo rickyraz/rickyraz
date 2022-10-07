@@ -1,7 +1,7 @@
 ## Hi i'm Rick 🦀🦕
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyraz&hide=html,scss&layout=compact)](https://github.com/rickyraz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyraz&hide=html,scss,css&layout=compact)](https://github.com/rickyraz/github-readme-stats)
 
 <!---
 rickyraz/rickyraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
