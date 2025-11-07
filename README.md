@@ -17,7 +17,7 @@ Backend Developer specializing in TypeScript, Go, and PostgreSQL. Currently buil
 - Exploring Open Banking integration patterns for cross-border payments
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/yourprofile](link)
+- LinkedIn: [linkedin.com/in/rickyraz](link)
 - Email: rickyraihan83@gmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rickyraz)](https://git.io/streak-stats)
