@@ -1,31 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2E9EF7&width=435&lines=Hi%2C+I'm+Ricky+%F0%9F%91%8B;Backend+Developer;Payment+Gateway+Builder)](https://git.io/typing-svg)
+# Ricky Raihan Azhari
 
-Backend Developer specializing in TypeScript, Go, and PostgreSQL. Currently building production-grade payment gateway systems with multi-tenant architecture.
+**Infrastructure Engineer** building payment systems and mainframe tooling.
 
-## 🔧 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+## Projects
+<!-- [Spectrum](https://github.com/rickyraz/spectrum)   -->
+### 🌏 [corridor](https://github.com/rickyraz/corridor) - cross-border payments
+Multi-currency platform for SEA corridors. Real-time FX, settlement reconciliation.  
+Go, PostgreSQL, TigerBeetle
+<!-- [Spectrum](https://github.com/rickyraz/spectrum)   -->
+### 🔧 spectrum- payment rails abstraction
+Unified interface across bank transfers, mobile money, CBDC rails.  
+Go, Zig(soon)
+<!-- [Volt](https://github.com/rickyraz/volt)   -->
+### ⚡ volt - message broker
+High-performance queue in Zig. IBM MQ alternative for mainframe-cloud integration.  
+Zig, RocksDB
+<!-- [zcobol](https://github.com/rickyraz/zcobol) -->
+### 🔨 zcobol — COBOL modernization for Zig
+COBOL-compatible financial primitives for modern payment systems. Fixed-point decimals (COMP-3), EBCDIC encoding, mainframe FFI bridge.<br>
+Gradual migration toolkit for legacy banking infrastructure.<br>
+Zig
 
-## 🚀 Current Focus
-- Building production-grade payment gateway with multi-tenant architecture
-- Implementing event-sourcing ledger system for financial transactions
-- Designing OAuth 2.0 + FAPI 2.0 security stack with mTLS
-- Optimizing Redis-based rate limiting with sliding window algorithm
-- Exploring Open Banking integration patterns for cross-border payments
+## Day Job
 
-## 📫 Contact
-- LinkedIn: [linkedin.com/in/rickyraz](link)
-- Email: rickyraihan83@gmail.com
+**Network Engineer** | Telecom Infrastructure  
+*2022 - Present*
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rickyraz)](https://git.io/streak-stats)
+Managing 60K+ ONUs across 310+ OLT devices in production GPON networks. Building automation tools in TypeScript for network ops. Keeping critical infrastructure reliable.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyraz&hide=html,scss,css,cmake,mdx,php,astro,dart&hide_progress=true)](https://github.com/rickyraz/github-readme-stats)
-<!---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyraz&show_icons=true&theme=prussian)
+Previously: Backend dev (TypeScript/Node.js), PostgreSQL tuning, Redis caching.
 
-rickyraz/rickyraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Stack
+
+**Languages:** Go · TypeScript · Zig · SQL · COBOL  
+**Infrastructure:** PostgreSQL · Redis · Temporal · RocksDB · TigerBeetle  
+**Domains:** Payment Systems · Settlement · Mainframe Integration · Message Queuing · Network Engineering
+
+## What I'm After
+
+Looking for work in:
+- Payment infrastructure at scale (settlement, reconciliation, multi-currency)
+- Fintech modernization (legacy migration, core banking, CBDC)
+- Systems engineering (queues, databases, distributed systems)
+
+**Open to:** Singapore fintech · EU payment processors · Remote (US/EU)
+
+## Contact
+
+**Email:** rickyraihan83@gmail.com  
+**LinkedIn:** [linkedin.com/in/rickyraz](https://linkedin.com/in/rickyraz)  
+**Location:** Tebet, Indonesia
+
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rickyraz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyraz&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,cmake,mdx,php)](https://github.com/rickyraz)
+
+<sub>All projects are learning exercises. I write about challenges and decisions as I go. Quality over features.</sub>
