@@ -1,6 +1,6 @@
 # Ricky Raihan Azhari
 
-**Infrastructure Engineer** building payment systems and mainframe tooling.
+**Infrastructure Engineer** transitioning from telecom automation to payment systems.
 
 ## About
 
