@@ -12,10 +12,7 @@ system integration, and high-throughput transaction processing.
 **Transition focus:** Applying distributed systems and infrastructure engineering 
 experience from telecom to payment systems challenges.
 
-## Payment Infrastructure Stack
-
-Building integrated payment platform for Southeast Asia's fragmented landscape 
-(modern fintech + legacy mainframes + mobile money).
+## Payment Infrastructure Projects
 
 ### 🌏 [corridor](https://github.com/rickyraz/corridor)
 **Multi-currency payment platform** | *Active development*
