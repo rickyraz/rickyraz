@@ -4,37 +4,34 @@
 
 ## About
 
-Currently building production automation for fiber networks (60K+ devices) while 
-exploring payment infrastructure through hands-on projects. Focused on the hard 
-technical problems: multi-currency settlement, exact decimal arithmetic, legacy 
-system integration, and high-throughput transaction processing.
-
-**Transition focus:** Applying distributed systems and infrastructure engineering 
-experience from telecom to payment systems challenges.
+Infrastructure engineer with production experience in high-availability telecom 
+systems (60K+ devices, 99.9% uptime). Now applying distributed systems expertise 
+to payment infrastructure—settlement engines, multi-currency ledgers, and 
+cross-border payment rails.
 
 ## Payment Infrastructure Projects
 
 ### 🌏 [corridor](https://github.com/rickyraz/corridor)
-**Multi-currency payment platform** | *Active development*
+**Cross-border remittance platform** | *Active development*
 
-Cross-border payment infrastructure with real-time FX integration, settlement 
-reconciliation, and double-entry accounting. Built for remittance corridors but 
-architecture supports any multi-currency payment scenario.
+End-to-end remittance application: FX conversion, compliance screening, 
+ISO 20022 messaging, real-time tracking. Built on TigerBeetle for 
+atomic multi-currency settlement.
 
 **Tech:** Go · PostgreSQL · Redis · TigerBeetle  
-**Capabilities:** Multi-currency accounts, FX engine, settlement reconciliation, 
-audit trails
+**Features:** 9-state transaction flow, OFAC screening, FX rate locking, 
+WebSocket updates, admin dashboard
 
 <!--   ### 🔧 [spectrum](https://github.com/rickyraz/spectrum) -->
-### 🔧 spectrum
-**Payment rails abstraction** | *Active development*
+### 🧵 sutera
+**Settlement engine** | *Planned*
 
-Unified interface across payment methods—bank transfers (SWIFT/ACH/SEPA), 
-mobile money, card networks, CBDC. Provides corridor with provider-agnostic 
-payment execution.
+HTLC-based atomic settlement inspired by BIS Project Icebreaker and 
+mBridge. Designed to replace TigerBeetle dependency in corridor with 
+custom-built ledger engine.
 
-**Tech:** Go · Zig (FFI layer for performance-critical paths)  
-**Design:** Abstract provider differences, consistent API for payment applications
+**Tech:** Zig · Go  
+**Scope:** Storage engine, WAL, HTLC state machine, multi-ledger coordination
 
 <!-- ### 🔨 [zcobol](https://github.com/rickyraz/zcobol)  -->
 ### 🔨 zcobol
@@ -58,71 +55,19 @@ Tech: Zig, RocksDB
   -->
 ## Professional Experience
 
-**Software Engineer** | Network Automation & Infrastructure  
+**Software Engineer** | Network Automation  
 *2022 - Present*
 
-Production automation for fiber network operations (60K+ ONUs, 310+ OLT devices). 
-Built provisioning systems, monitoring dashboards, incident ticketing platform.
+Production automation for fiber networks: 60K+ ONUs, 310+ OLT devices.
+Built provisioning systems, monitoring dashboards, incident platform.
 
-**Tech:** TypeScript · EffectTS · Go · Redis · PostgreSQL  
-**Systems:** ONU activation automation, network monitoring, API integration with 
-network equipment
+**Tech:** TypeScript · Go · Redis · PostgreSQL  
+**Scale:** 99.9% uptime, real-time telemetry, legacy API integration
 
-**Previously:** Backend development (Node.js/TypeScript), database optimization, 
-distributed caching
+## Open To
 
-**Transferable skills:**
-- High-availability systems (99.9% uptime telecom infrastructure)
-- Real-time data processing (network telemetry, event streams)
-- API integration with legacy systems (OLT vendor APIs)
-- CRUD systems and automation tooling
-
----
-
-## Technical Experience
-
-### Professional (Proven in Production)
-**Languages:** TypeScript · Go · SQL  
-**Infrastructure:** PostgreSQL · Redis  
-**Domains:** Distributed systems · Real-time processing · API integration · 
-Network automation
-
-### Exploring (Side Projects)
-**Payment domains:** Settlement · Multi-currency ledgers · FX integration · 
-Legacy bank interop  
-**Tech stack:** Temporal · TigerBeetle · Zig  
-**Protocols:** GPON/ITU-T (professional) · SWIFT/ISO 20022 (learning)
-
----
-
-## What I'm Looking For
-
-**Transition goal:** Infrastructure or backend engineering roles in payment systems, 
-where my distributed systems experience and payment exploration can converge.
-
-**Ideal opportunities:**
-
-**Early-stage fintech** where I can:
-- Build payment infrastructure from ground up
-- Contribute to core settlement systems
-- Work on legacy bank integration challenges
-
-**Engineering roles in:**
-- Cross-border payment platforms
-- Payment processors (settlement, reconciliation)
-- Core banking modernization
-- Real-time payment rails
-
-**What I bring:**
-- Production infrastructure experience (high-availability, scale)
-- Self-directed payment systems learning (corridor, spectrum, zcobol)
-- Hands-on fintech exploration (not just theory)
-- Comfortable with ambiguity and greenfield projects
-
-**Locations:** Singapore · Remote (EU/US) · Open to relocation  
-**Timezone:** Flexible for global teams (UTC+7, adaptable)
-
----
+Backend/infrastructure roles in payment systems. 
+Singapore · Remote · Open to relocation.
 
 ## Contact
 
