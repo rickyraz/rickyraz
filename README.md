@@ -11,7 +11,7 @@ cross-border payment rails.
 
 ## Payment Infrastructure Projects
 
-### 🌏 [corridor](https://github.com/rickyraz/corridor)
+### 🌏 [kovra](https://github.com/rickyraz/corridor)
 **Cross-border remittance platform** | *Active development*
 
 End-to-end remittance application: FX conversion, compliance screening, 
