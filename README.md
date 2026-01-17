@@ -35,15 +35,27 @@ custom-built ledger engine.
 
 <!-- ### 🔨 [zcobol](https://github.com/rickyraz/zcobol)  -->
 ### 🔨 zcobol
-**Financial primitives for Zig** | *Research*
+**Safe COBOL-Zig interop** | *Research*
 
-COBOL-compatible data types for modern systems. COMP-3 packed decimals, 
-EBCDIC codec, mainframe file I/O. Enables processing legacy bank data formats 
-with exact precision.
+Financial primitives enabling safe interop between COBOL and Zig. Preserves exact 
+COBOL semantics (COMP-3 decimals, packed formats, EBCDIC) at native performance 
+for gradual mainframe modernization.
 
-**Tech:** Zig  
-**Use case:** Settlement file processing, batch reconciliation, mainframe integration  
-**Context:** 43% of banking systems globally still run COBOL
+**Approach:** Direct type mapping + compile-time verification (inspired by CXX's C++-Rust interop)  
+**Status:** COMP-3 arithmetic implementation, layout verification research  
+**Vision:** Production-ready interop toolkit by 2027
+
+**Why it matters:** 800B+ lines of COBOL in production (up from 220B in 2017), 
+43% of banking systems. Traditional migration approaches carry extreme risk and cost:
+- Commonwealth Bank: 5 years, $750M
+- TSB Bank: £427M+ in direct losses and fines, 5.2M customers affected
+- Big IT project failure rate: 50-80%
+
+zcobol enables keeping battle-tested COBOL business logic while adding modern 
+components incrementally—avoiding big-bang rewrites.
+
+**Tech:** Zig + C ABI bridge  
+**Use cases:** Settlement file processing, batch reconciliation, mainframe integration
 
 <!-- [Volt](https://github.com/rickyraz/volt) 
 <!-- ### ⚡ volt - message broker [Planned]
