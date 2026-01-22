@@ -39,4 +39,4 @@ Open to backend/infrastructure roles in payment systems. Singapore · Remote · 
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rickyraz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyraz&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,cmake,mdx,php)](https://github.com/rickyraz)
